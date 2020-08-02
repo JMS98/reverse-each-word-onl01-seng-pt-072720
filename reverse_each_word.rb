@@ -7,6 +7,7 @@ def reverse_each_word(phrase)
   
   counter = 0 
   while counter < split_phrase.size
+  counter += 1
 end
   
   
