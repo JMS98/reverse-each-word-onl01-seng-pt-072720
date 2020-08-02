@@ -6,7 +6,7 @@ def reverse_each_word(phrase)
   split_phrase = phrase.split(" ")
   
   counter = 0 
-  while counter +=
+  while counter < split_phrase.size
 end
   
   
