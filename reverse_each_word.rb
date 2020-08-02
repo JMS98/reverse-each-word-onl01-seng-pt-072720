@@ -8,7 +8,7 @@ def reverse_each_word(phrase)
    reversed_words << split_phrase[counter].reverse 
     counter += 1
   end
-  
+  reversed_words.join 
 end
 
   
